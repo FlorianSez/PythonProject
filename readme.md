@@ -8,4 +8,4 @@ There's many project we can focus on, in Cybersecurity we can perform:
 - Create our own VPN
 - Create a keylogger
 
-\*\*An important point should be the integration with one (or more) of the above functionnalities in a User Interface (UI)\*\*
+**An important point should be the integration with one (or more) of the above functionnalities in a User Interface (UI)**
