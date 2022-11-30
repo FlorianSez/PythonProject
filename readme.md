@@ -15,7 +15,7 @@ There's many project we can focus on, in Cybersecurity we can perform:
 ### API folder
 
 - Contain the relation and request treatment that are returned to the client
-- To activate the venv write the command :
+- To activate the venv write the command from a terminal on at the apipip folder :
   `source venv/bin/activate`
   and use pip to install package into the venv
 
